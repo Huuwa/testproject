@@ -46,7 +46,7 @@ multidict==6.0.4
 multiprocess==0.70.15
 nest-asyncio==1.5.7
 nltk==3.8.1
-numpy==1.25.1
+numpy==1.21.6
 packaging==23.1
 pandas==2.0.0
 parso==0.8.3
